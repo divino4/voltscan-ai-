@@ -1,0 +1,6 @@
+{
+  "name": "VoltScan AI",
+  "description": "SaaS platform for intelligent analysis and interpretation of electrical blueprints with automated reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI Analysis", "Reporting", "Cloud Storage"]
+}
